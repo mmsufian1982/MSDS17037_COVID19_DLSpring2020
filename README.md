@@ -12,13 +12,15 @@ VGG16 and ResNet18 pretrained Models have been acquired in Pytorch and using Tra
 
 ## Dataset
 Dataset is available at following link.
+https://drive.google.com/drive/folders/1DuepXzU9RnJ2etiDXwmAf1FYrU4rFaZ7?usp=sharing
 
 ## Models
 Trained models are available at following link.
+https://drive.google.com/drive/folders/1ZfzpXt239jyp76C4Et76QZq9OIWJSNtg?usp=sharing
 
 ## Accuracy and Confusion Matrix
 ### VGG16
-[![](https://github.com/mmsufian1982/MSDS17037_COVID19_DLSpring2020/blob/master/images/VGG16.jpg)]
+![](https://github.com/mmsufian1982/MSDS17037_COVID19_DLSpring2020/blob/master/images/VGG16.jpg)
 
 ### ResNET18
-[![](https://github.com/mmsufian1982/MSDS17037_COVID19_DLSpring2020/blob/master/images/ResNet18.jpg)]
+![](https://github.com/mmsufian1982/MSDS17037_COVID19_DLSpring2020/blob/master/images/ResNet18.jpg)
