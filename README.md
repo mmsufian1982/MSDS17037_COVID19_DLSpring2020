@@ -18,6 +18,7 @@ Trained models are available at following link.
 
 ## Accuracy and Confusion Matrix
 ### VGG16
-
+[![](https://github.com/mmsufian1982/MSDS17037_COVID19_DLSpring2020/blob/master/images/VGG16.jpg)]
 
 ### ResNET18
+[![](https://github.com/mmsufian1982/MSDS17037_COVID19_DLSpring2020/blob/master/images/ResNet18.jpg)]
