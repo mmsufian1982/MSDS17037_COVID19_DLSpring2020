@@ -39,6 +39,7 @@ https://drive.google.com/drive/folders/1-0aH7uikPUKsWU9u3K-4NfMJzDmPS1ot?usp=sha
 ## Accuracy and Confusion Matrix
 ### VGG16
 Accuracy on Validation Data: 95%
+
 F1 Measure: 0.9342
 
 Multi Label Confusion Matrix:
@@ -47,6 +48,7 @@ Multi Label Confusion Matrix:
 
 ### ResNET18
 Accuracy on Validation Data: 91%
+
 F1 Measure: 0.8494
 
 Multi Label Confusion Matrix:
