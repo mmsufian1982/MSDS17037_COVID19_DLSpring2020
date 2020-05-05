@@ -25,7 +25,7 @@ https://drive.google.com/drive/folders/1ZfzpXt239jyp76C4Et76QZq9OIWJSNtg?usp=sha
 ### ResNET18
 ![](https://github.com/mmsufian1982/MSDS17037_COVID19_DLSpring2020/blob/master/images/ResNet18.jpg)
 
-## Implementation of VGG16 and ResNet18 with Focal Loss and Multi Lable Classification
+## Implementation of VGG16 and ResNet18 with Focal Loss and Multi Label Classification
 VGG16 and ResNet18 pretrained Models have been acquired in Pytorch and using Transfer Learning, all layers of models are retrained to achieve the best possible accuracy.
 
 ## Dataset
