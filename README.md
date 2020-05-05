@@ -38,10 +38,20 @@ https://drive.google.com/drive/folders/1-0aH7uikPUKsWU9u3K-4NfMJzDmPS1ot?usp=sha
 
 ## Accuracy and Confusion Matrix
 ### VGG16
-![](https://github.com/mmsufian1982/MSDS17037_COVID19_DLSpring2020/blob/master/images/VGG16.jpg)
+Accuracy on Validation Data: 95%
+F1 Measure: 0.9342
+
+Multi Label Confusion Matrix:
+
+![](https://github.com/mmsufian1982/MSDS17037_COVID19_DLSpring2020/blob/master/images/VGG16MultiLabelFL.jpg)
 
 ### ResNET18
-![](https://github.com/mmsufian1982/MSDS17037_COVID19_DLSpring2020/blob/master/images/ResNet18.jpg)
+Accuracy on Validation Data: 91%
+F1 Measure: 0.8494
+
+Multi Label Confusion Matrix:
+
+![](https://github.com/mmsufian1982/MSDS17037_COVID19_DLSpring2020/blob/master/images/ResNet18MultiLabelFL.jpg)
 
 References
 [1]  Zu, Zi Yue, et al. "Coronavirus disease 2019 (COVID-19): a perspective from China." Radiology (2020): 200490.
